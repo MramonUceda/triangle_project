@@ -1,6 +1,6 @@
 namespace Application;
 
-public class Triangulo(){
+public class Triangulo{
 
 
     public static double perimetro(double ladoA,double ladoB, double ladoC){
